@@ -1,0 +1,14 @@
+{
+  "name": "try-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "coin-hive": "^1.9.4"
+  },
+  "engines": {
+    "node": ">=8.0",
+    "npm": ">=5.0"
+  }
+}
